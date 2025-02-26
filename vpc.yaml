@@ -86,7 +86,7 @@ Resources:
       InstanceTenancy: default
       Tags:
       - Key: Name
-        Value: Cloudformation VPC
+        Value: nitheshskmr cloudformation VPC
 
 # Create Internet Gateway
   InternetGateway:
