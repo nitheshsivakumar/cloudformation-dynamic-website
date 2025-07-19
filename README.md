@@ -57,10 +57,6 @@ This project involves deploying a **dynamic e-commerce website** on **AWS** usin
 - Managed **DNS records** via **Amazon Route 53**.  
 - Configured **SSL certificates** via **AWS Certificate Manager** for HTTPS security.  
 
-6️⃣ **Infrastructure Monitoring & Logging**  
-- Enabled **Amazon CloudWatch** to monitor application health and performance.  
-- Used **CloudFormation stack policies** to prevent accidental deletions.  
-
 ---
 
 ## 📊 Key Benefits
