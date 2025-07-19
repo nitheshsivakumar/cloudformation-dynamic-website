@@ -30,9 +30,6 @@ This project involves deploying a **dynamic e-commerce website** on **AWS** usin
 - **Amazon S3** - Storing CloudFormation templates and static assets.
 - **Amazon CloudWatch** - Monitoring application and infrastructure performance.
 
-📌 **Reference Architecture:**  
-![Architecture](Ecommerce-CloudFormation.jpg)
-
 ---
 
 ## 🚀 What I Did
